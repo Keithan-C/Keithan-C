@@ -1,16 +1,19 @@
-## Hi there 👋
+# Keithan · LXD Advisory
 
-<!--
-**Keithan-C/Keithan-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Act Article 4, 12 & 19 Compliance Methodology for Automotive R&D
 
-Here are some ideas to get you started:
+I build output-driven training programs that bridge the gap between 
+ADAS engineering teams and audit-ready compliance documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instead of teaching theory, teams produce actual artifacts during sessions:
+— Logging Schemas (Article 12)
+— Log Control Procedures (Article 19)  
+— Audit Defense Briefs
+— Infrastructure Implementation Specs
+
+Currently working with automotive OTA and connected vehicle teams 
+preparing for the August 2026 EU AI Act enforcement deadline.
+
+→ Take the Article 12/19 Readiness Diagnostic
+→ Connect on LinkedIn
+→ lxdadvisory.com (coming soon)
