@@ -16,4 +16,4 @@ preparing for the August 2026 EU AI Act enforcement deadline.
 
 → Take the Article 12/19 Readiness Diagnostic
 → Connect on LinkedIn
-→ lxdadvisory.com (coming soon)
+→ keithan.eu (coming soon)
